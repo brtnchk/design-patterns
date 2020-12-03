@@ -10,5 +10,4 @@ $blog_post = new BlogPost();
 $blog_post->addProperty('likes', 250);
 $blog_post->setProperty('likes', 400);
 
-
 print_r($blog_post->getProperty('likes'));
