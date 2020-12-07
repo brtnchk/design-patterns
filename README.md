@@ -1,4 +1,4 @@
-# design-patterns
+# design patterns
 
-- PropertyContainer
-- Delegation
+- property container
+- delegation
