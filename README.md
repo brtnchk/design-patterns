@@ -1,3 +1,4 @@
 # design-patterns
 
 - PropertyContainer
+- Delegation
